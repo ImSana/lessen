@@ -1,0 +1,5 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Console.Open">
+    <keyboard-shortcut first-keystroke="caps_lock" />
+  </action>
+</keymap>
